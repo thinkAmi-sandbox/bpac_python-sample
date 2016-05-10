@@ -28,9 +28,11 @@ path\to\dir>env\Scripts\activate
 - b-PAC SDK 3.1.004 (x86版)
 - Python 3.5.1
 - pythonnet 2.1.0
+- pywin32 220
 
 
 　  
 ## 関係するブログ
 
 - [b-PAC SDKをPython + pythonnetで操作してみた - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2016/05/10/220912)
+- [b-PAC SDKをPython + pywin32(win32com)で操作してみた - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2016/05/11/061626)
